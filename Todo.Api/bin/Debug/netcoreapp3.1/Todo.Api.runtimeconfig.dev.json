@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/colebots/.dotnet/store/|arch|/|tfm|",
-      "/Users/colebots/.nuget/packages"
-    ]
-  }
-}
